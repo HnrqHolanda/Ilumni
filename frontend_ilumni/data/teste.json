@@ -1,0 +1,29 @@
+[
+  {
+    "titulo": "Velocidade em queda livre",
+    "enunciado": "Um corpo em queda livre parte do repouso. Qual é sua velocidade após 3 segundos, considerando a gravidade como 10 m/s²?",
+    "resposta_correta": "30",
+    "placeholder": "Digite a velocidade final em m/s",
+    "nivel": "1",
+    "materia": "Física",
+    "assunto": "Cinemática"
+  },
+  {
+    "titulo": "Unidade de medida da força",
+    "enunciado": "Qual é a unidade de medida da força no Sistema Internacional (SI)?",
+    "resposta_correta": "Newton",
+    "placeholder": "Digite a unidade de medida",
+    "nivel": "1",
+    "materia": "Física",
+    "assunto": "Leis de Newton"
+  },
+  {
+    "titulo": "Cálculo da força resultante",
+    "enunciado": "Um objeto de massa 2 kg está sob uma aceleração de 5 m/s². Qual a força resultante que atua sobre ele?",
+    "resposta_correta": "10",
+    "placeholder": "Digite a força em Newtons",
+    "nivel": "1",
+    "materia": "Física",
+    "assunto": "Dinâmica"
+  }
+]

@@ -9,7 +9,7 @@ export default function Header() {
         {/* Logo */}
         <div className="text-3xl font-bold tracking-wide font-[Pacifico] pl-4 flex items-center gap-2">
           <FaBookOpen size={28} color="#49a9f8" className="mr-5"/>
-          <Link to="">Ilumni</Link>
+          <Link to="/">Ilumni</Link>
         </div>
 
         {/* Navigation */}
